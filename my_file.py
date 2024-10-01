@@ -6,3 +6,9 @@ e = b
 f = 3
 result = (a*b)+(c**d)-(e%f)
 print(result)
+
+
+
+
+
+print("helllo")
